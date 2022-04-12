@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649165680 source:d:\egyetem\4.félév\os\dx6c4r_0405\dx6c4r_openclose\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+	<unistd.h>
+
